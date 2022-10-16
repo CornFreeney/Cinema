@@ -1,0 +1,15 @@
+/home/runner/Cinema/bin/Debug/netcoreapp6.0/cinema
+/home/runner/Cinema/bin/Debug/netcoreapp6.0/cinema.deps.json
+/home/runner/Cinema/bin/Debug/netcoreapp6.0/cinema.runtimeconfig.json
+/home/runner/Cinema/bin/Debug/netcoreapp6.0/cinema.dll
+/home/runner/Cinema/bin/Debug/netcoreapp6.0/ref/cinema.dll
+/home/runner/Cinema/bin/Debug/netcoreapp6.0/cinema.pdb
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.csproj.AssemblyReference.cache
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.AssemblyInfoInputs.cache
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.AssemblyInfo.cs
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.csproj.CoreCompileInputs.cache
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.dll
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/ref/cinema.dll
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.pdb
+/home/runner/Cinema/obj/Debug/netcoreapp6.0/cinema.genruntimeconfig.cache
